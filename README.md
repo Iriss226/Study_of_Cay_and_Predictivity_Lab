@@ -216,3 +216,11 @@ This returns a cleaned modeling table with:
 
 Lettau, M. and Ludvigson, S. (2001). *Consumption, Aggregate Wealth, and Expected
 Stock Returns*. **Journal of Finance**, 56(3), 815–849.
+
+---
+
+## Contributors
+
+| ID | Email |
+|---|---|
+| `supportzhicheng` | `zhichengz@uchicago.edu` |
